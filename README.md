@@ -1,4 +1,11 @@
-Ola!
+Hy!
+
+About me:
+
+🧑|18 years
+👨‍💻|Software Engineer
+🏛️|Student of Instituto Infnet
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonPasseri&show_icons=true&theme=radical)
 
