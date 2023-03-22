@@ -4,6 +4,7 @@ About me:
 <div></div>
 
 🧑|18 years
+<div></div>
 👨‍💻|Software Engineer
 <div></div>
 🏛️|Student of Instituto Infnet
