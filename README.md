@@ -3,9 +3,13 @@ Hy!
 About me:
 
 🧑|18 years
+<div></div>
 👨‍💻|Software Engineer
+<div></div>
 🏛️|Student of Instituto Infnet
+<div></div>
 
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonPasseri&show_icons=true&theme=radical)
 
