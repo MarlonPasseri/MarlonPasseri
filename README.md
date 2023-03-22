@@ -1,7 +1,6 @@
 Hy!
 
 About me:
-<div></div>
 
 🧑|18 years
 <div></div>
