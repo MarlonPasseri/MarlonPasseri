@@ -2,8 +2,9 @@ Hy!
 
 About me:
 
-🧑|18 years
 <div></div>
+🧑|18 years
+
 👨‍💻|Software Engineer
 <div></div>
 🏛️|Student of Instituto Infnet
