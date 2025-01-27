@@ -66,7 +66,7 @@
     <section>
         <h2>📫 How to Reach Me</h2>
         <p>Email: <a href="mailto:marlonn.contato@gmail.com" class="links">marlonn.contato@gmail.com</a></p>
-        <p>LinkedIn: <a href="www.linkedin.com/in/marlon-passeri" class="links">linkedin.com/in/MarlonPasseri</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/" class="links">www.linkedin.com/in/marlon-passeri</a></p>
     </section>
 </body>
 </html>
