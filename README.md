@@ -19,14 +19,7 @@
             <li>Data Management</li>
         </ul>
     </section>
-    <section>
-        <h2>📊 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=MarlonPasseri&show_icons=true&theme=radical" alt="GitHub Stats">
-        <br>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonPasseri&layout=compact&theme=radical" alt="Top Languages">
-        </a>
-    </section>
+
     <section>
         <h2>🛠️ Tech Stack</h2>
         <h3>Languages & Frameworks:</h3>
