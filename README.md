@@ -19,7 +19,6 @@
             <li>Data Management</li>
         </ul>
     </section>
-
     <section>
         <h2>🛠️ Tech Stack</h2>
         <h3>Languages & Frameworks:</h3>
